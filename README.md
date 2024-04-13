@@ -1,4 +1,4 @@
-# django-tutorial
+# django-tutorial-1
 
 #### Django 공식 문서 Tutorial 클론 코딩
 
